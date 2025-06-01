@@ -2,3 +2,7 @@ github.com/fengdotdev/golibs-testing v0.1.1 h1:HnQp/hL1tMzu8vYG+tPU3xMJl8elwzSrt
 github.com/fengdotdev/golibs-testing v0.1.1/go.mod h1:tNJmVem0VTk/bkRvMyf7/QRrnWTe/CAnkPsb4dFimwY=
 github.com/fengdotdev/golibs-traits v0.2.1 h1:t/xnNRCYI0v+MrvFqUL3jnhfQFUGSGE1Gz9X1pPlXhA=
 github.com/fengdotdev/golibs-traits v0.2.1/go.mod h1:Ky0MxYNvKRxrcm5PMJNXGtr5Hs/S9xpTpiNTBEbwMiI=
+golang.org/x/image v0.27.0 h1:C8gA4oWU/tKkdCfYT6T2u4faJu3MeNS5O8UPWlPF61w=
+golang.org/x/image v0.27.0/go.mod h1:xbdrClrAUway1MUTEZDq9mz/UpRwYAkFFNUslZtcB+g=
+golang.org/x/text v0.25.0 h1:qVyWApTSYLk/drJRO5mDlNYskwQznZmkpV2c8q9zls4=
+golang.org/x/text v0.25.0/go.mod h1:WEdwpYrmk1qmdHvhkSTNPm3app7v4rsT8F2UD6+VHIA=
