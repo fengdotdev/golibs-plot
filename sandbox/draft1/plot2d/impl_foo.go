@@ -26,12 +26,6 @@ func (p *Plot2D) Draw() error {
 
 	img := image.NewRGBA(image.Rect(0, 0, p.size.Width, p.size.Height))
 
-	// fill the background
-	for x := 0; x < width; x++ {
-		for y := 0; y < height; y++ {
-			img.Set(x, y, backgroundColor)
-		}
-	}
 
 	// draw point
 	centerX := width / 2
